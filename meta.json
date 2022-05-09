@@ -7,17 +7,8 @@
   "license": "Apache License 2.0",
   "web": "https://github.com/twist-vector/nim-bped",
   "refs": [
-    "refs/heads/master",
+    "fatal: unable to access 'https://github.com/twist-vector/nim-bped.git/': Error in the HTTP2 framing layer",
     ""
   ],
-  "heads": [
-    {
-      "description": "Nim implementation of the Bittorrent ascii serialization protocol",
-      "license": "Apache License 2.0",
-      "name": "bped",
-      "ref": "refs/heads/master",
-      "url": "https://github.com/twist-vector/nim-bped.git",
-      "version": "master"
-    }
-  ]
+  "heads": []
 }
