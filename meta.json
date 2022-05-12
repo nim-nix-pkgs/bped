@@ -7,8 +7,17 @@
   "license": "Apache License 2.0",
   "web": "https://github.com/twist-vector/nim-bped",
   "refs": [
-    "fatal: unable to access 'https://github.com/twist-vector/nim-bped.git/': OpenSSL SSL_read: Network is unreachable, errno 101",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "description": "Nim implementation of the Bittorrent ascii serialization protocol",
+      "license": "Apache License 2.0",
+      "name": "bped",
+      "ref": "refs/heads/master",
+      "url": "https://github.com/twist-vector/nim-bped.git",
+      "version": "master"
+    }
+  ]
 }
